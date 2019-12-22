@@ -7,7 +7,7 @@ static void Mymethod(String name){
 System.out.println("Value of name is " + name);
 
 }
-// If you want to return a value ,you can use int, char instead of void
+// If you want to return a value ,you can use int, char instead of void ...
 static int intMethod(int x){
 return x + 10;	
 
